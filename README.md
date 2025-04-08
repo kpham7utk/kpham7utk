@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khoa</h1>
 <h3 align="center">M.S. Computer Science Graduate from University of Tennessee - Knoxville</h3>
 
-- 🌱 I’m currently learning **Machine Learning** with my project **HonkyTonkHomes** and working on another full-stack web app project named **Trackify**
+- 🌱 I’m currently working on a full-stack web app project named **Trackify**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-website-eight-gray.vercel.app/](https://portfolio-website-eight-gray.vercel.app/)
 
