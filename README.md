@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working on a full-stack web app project named **Trackify**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-website-eight-gray.vercel.app/](https://portfolio-website-eight-gray.vercel.app/)
+- 👨‍💻 Portfolio of my projects is available at [https://portfolio-website-eight-gray.vercel.app/](https://portfolio-website-eight-gray.vercel.app/)
 
 - 📫 How to reach me **mingoalen1@gmail.com**
 
